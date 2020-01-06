@@ -1,0 +1,16 @@
+#+TITLE: Perception Club
+
+The Perception Club is my attempt to recreate FlowToys' fantastic but also very expensive light juggling club. It supports displaying images in lights, as well as a variety of effects.
+
+TODO: Add images and more stuff..!
+
+* Parts list
+All parts required to build one club. Prices are excluding postage... But many electronics sellers on ebay especia
+
+| *Name*                                                 | *Price*  | *Source*                        |
+|--------------------------------------------------------+----------+---------------------------------|
+| Arduino pro micro (5v/ 16mhz)                          | 3-4 euro | Ebay (look for chinese sellers) |
+| WS2812B individually addressable LED strip 1m/ 144 LED | ~10 euro | Ebay (look for chinese sellers) |
+| AAA rechargable batteries:                             | 4.25     | [[https://www.amazon.co.uk/dp/B07NWWLLMQ/ref=pe_3187911_185740111_TE_item][Amazon Basics]]                   |
+| Wire, 470ohm resister                                  | 0        | ???                             |
+| ...                                                    |          |                                 |
